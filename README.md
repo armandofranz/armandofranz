@@ -1,35 +1,35 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/<armandofranz>/<armandofranz>/" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=armandofranz.armandofranz" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Armando+Franz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Armando+Franz!;" alt="Typing SVG"/>
 </h1>
 
-<h3 align="center">A passionate software developer from Brasil br</h3>
+<h3 align="center">A passionate software developer from Brazil</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I am currently looking for an opportunity as a **front-end developer** and improving my skills in **TypeScript, TailwindCSS, React,Node-JS, MySQL**
+ 🔭 I am currently looking for an opportunity as a **front-end developer** and improving my skills in **TypeScript, TailwindCSS, React, Node.js, MySQL**
 
- </div>
+</div>
  
 <div align="center"> 
-  <a href="mailto:amrandofranz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:armandofranz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/armando-soares-programmer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java,mysql" alt="Skills Icons"/><br>
 </div>
 
 <br/>
@@ -38,7 +38,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/armandofranz/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/armandofranz/armandofranz/output/github-contribution-grid-snake.svg"/>
   
   <br/><br/><br/>
 </div>
@@ -47,11 +47,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-armandofranz.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-armandofranz.vercel.app/api?username=armandofranz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=armandofranz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=armandofranz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-armandofranz.vercel.app/api/top-langs/?username=armandofranz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandofranz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
